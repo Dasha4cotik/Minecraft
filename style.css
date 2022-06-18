@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+.qw1 {
+    width: 100%;
+    text-align: center;
+    font-size: 26px;
+}
+
+header {
+    background-color: #A8460F;
+    margin: 0px;
+    padding: 20px;
+}
+
+.one {
+    margin-left: 30px;
+    padding: 20px;
+    width: 200px;
+    color: white;
+    background-color:#3D9200;
+   
+}
+.two{
+    margin-left: 30px;
+    padding: 20px;
+    width: 200px;
+    color: white;
+    background-color:#3D9200;
+}
+.three{
+     margin-left: 30px;
+    padding: 20px;
+    width: 200px;
+    color: white;
+    background-color:#3D9200;
+}
